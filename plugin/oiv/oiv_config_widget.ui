@@ -54,7 +54,7 @@
           </property>
           <widget class="QWidget" name="plugin">
            <attribute name="title">
-            <string>Plugin main seetings</string>
+            <string>Plugin main settings</string>
            </attribute>
            <layout class="QVBoxLayout" name="verticalLayout_2">
             <item>
